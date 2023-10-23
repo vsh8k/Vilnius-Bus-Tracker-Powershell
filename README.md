@@ -21,7 +21,7 @@ Get-BusLocation -Bus <routes> -Trolleybus <routes> -ShowStreet
 
 ## Example
 
-![An example of the script](img/image.png)
+![An example of the script](https://i.ibb.co/N9tYJq1/image.png)
 
 ## How it Works
 #### This script operates by utilizing two key APIs:
